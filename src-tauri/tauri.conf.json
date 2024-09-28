@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "ftachatte",
+        "title": "FTaChatte",
         "width": 800,
         "height": 600
       }
