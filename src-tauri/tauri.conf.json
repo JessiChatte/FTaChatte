@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2.0.0-rc",
-  "productName": "ftachatte",
+  "productName": "FTaChatte",
   "version": "../package.json",
   "identifier": "ftachatte.app",
   "build": {
